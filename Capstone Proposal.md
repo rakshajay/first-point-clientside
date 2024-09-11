@@ -93,11 +93,11 @@ POST /comments: Add a new comment or feedback from a user
 
 ## Roadmap
 
-Days 1-2: Set up the project structure and initialize the tech stack (React, Express, MySQL).
-Days 3-4: Develop the backend, setting up routes, database models, and endpoints.
-Days 5-6: Implement the frontend interactive installation using Three.js and integrate the Meshy AI API.
-Days 7-8: Build out the detailed gallery pages for different sections (Architecture, AI, XR, etc.).
-Days 9-10: Testing, debugging, and final polish—focus on UI/UX and optimizing performance for a smooth experience.
+- Days 1-2: Set up the project structure and initialize the tech stack (React, Express, MySQL).
+- Days 3-4: Develop the backend, setting up routes, database models, and endpoints.
+- Days 5-6: Implement the frontend interactive installation using Three.js and integrate the Meshy AI API.
+- Days 7-8: Build out the detailed gallery pages for different sections (Architecture, AI, XR, etc.).
+- Days 9-10: Testing, debugging, and final polish—focus on UI/UX and optimizing performance for a smooth experience.
 
 ---
 
