@@ -63,25 +63,25 @@ https://docs.meshy.ai
 ### Mockups
 
 #### Home Page
-![](home.png)
+![](assets/home.png)
 
 #### Sections of portfolio- intro
-![](portfolio-intro.png)
+![](assets/portfolio-intro.png)
 
 #### Sections of portfolio- intro2
-![](portfolio-intro2.png)
+![](assets/portfolio-intro2.png)
 
 #### Gallery
-![](gallery.png)
+![](assets/gallery.png)
 
 #### Comments
-![](comments.png)
+![](assets/comments.png)
 
 
 ### Data
 
-![](overview.jpeg)
-![](frontend.jpeg)
+![](assets/overview.jpg)
+![](assets/fontend.jpg)
 ![](--.jpeg)
 
 ### Endpoints
